@@ -1,4 +1,3 @@
-
 # ProofChain AI
 
 AI-powered scam, phishing & trust verification platform.
